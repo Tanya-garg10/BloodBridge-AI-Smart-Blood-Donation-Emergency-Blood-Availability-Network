@@ -91,38 +91,6 @@ The application will be available at `http://localhost:3000`
 - `npm run lint` - Run TypeScript type checking
 - `npm run clean` - Clean build artifacts
 
-## 🌐 Deployment
-
-### Render (Recommended)
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-
-1. **Push your code to GitHub** (already done)
-2. **Create a Render account** at [render.com](https://render.com)
-3. **Create a new Web Service**:
-   - Connect your GitHub repository: `Tanya-garg10/BloodBridge-AI-Smart-Blood-Donation-Emergency-Blood-Availability-Network`
-   - Render will automatically detect the `render.yaml` configuration
-4. **Configure Environment Variables**:
-   - `OPENAI_API_KEY`: Your OpenAI API key
-   - (Other variables are auto-configured by render.yaml)
-5. **Deploy** - Render will automatically handle the build and deployment
-
-### Manual Deployment
-
-```bash
-# Build the project
-npm install --legacy-peer-deps
-npm run build
-
-# Set environment variables
-export OPENAI_API_KEY="your_key_here"
-export NODE_ENV="production"
-export PORT="3000"
-
-# Start the server
-npm start
-```
-
 ## 📡 API Endpoints
 
 ### Health & System
@@ -223,10 +191,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
-
-- **Tanya Garg** - Initial work
-
 ## 🙏 Acknowledgments
 
 - OpenAI for AI capabilities
@@ -237,8 +201,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For support, please open an issue in the GitHub repository or contact the maintainers.
-
----
 
 <div align="center">
   <p>Made with ❤️ to save lives through smart blood donation management</p>
