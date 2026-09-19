@@ -1,15 +1,18 @@
-# BloodBridge AI
-
 <div align="center">
-  <h3>🩸 Smart Blood Donation & Emergency Blood Availability Network</h3>
-  <p>An intelligent blood donation management system that connects donors, hospitals, and blood banks through AI-powered matching and real-time coordination.</p>
-</div>
+
+# 🩸 BloodBridge AI
+
+### Smart Blood Donation & Emergency Blood Availability Network
+
+An intelligent blood donation management system that connects donors, hospitals, and blood banks through AI-powered matching and real-time coordination.
 
 ![BloodBridge AI](https://img.shields.io/badge/BloodBridge-AI-red)
 ![Node.js](https://img.shields.io/badge/Node.js-18%2B-green)
 ![React](https://img.shields.io/badge/React-19-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+</div>
 
 ## 🌟 Features
 
